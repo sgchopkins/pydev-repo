@@ -1,3 +1,3 @@
 print('This should appear on GitHub')
 print('second commit')
-print('third commt')
+print('third commit')
